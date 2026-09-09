@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Anshu033/daily-leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/Anshu033/daily-leetcode/tree/master/0257-binary-tree-paths) |
 | [0687-longest-univalue-path](https://github.com/Anshu033/daily-leetcode/tree/master/0687-longest-univalue-path) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Anshu033/daily-leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anshu033/daily-leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Anshu033/daily-leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/Anshu033/daily-leetcode/tree/master/0257-binary-tree-paths) |
 | [0687-longest-univalue-path](https://github.com/Anshu033/daily-leetcode/tree/master/0687-longest-univalue-path) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Anshu033/daily-leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anshu033/daily-leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Anshu033/daily-leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/Anshu033/daily-leetcode/tree/master/0257-binary-tree-paths) |
 | [0687-longest-univalue-path](https://github.com/Anshu033/daily-leetcode/tree/master/0687-longest-univalue-path) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Anshu033/daily-leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anshu033/daily-leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## DP on Trees
 |  |
