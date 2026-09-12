@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Anshu033/daily-leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Anshu033/daily-leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Anshu033/daily-leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anshu033/daily-leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anshu033/daily-leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Anshu033/daily-leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anshu033/daily-leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/Anshu033/daily-leetcode/tree/master/0814-binary-tree-pruning) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Anshu033/daily-leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Anshu033/daily-leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anshu033/daily-leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anshu033/daily-leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Anshu033/daily-leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anshu033/daily-leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Anshu033/daily-leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Anshu033/daily-leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Anshu033/daily-leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anshu033/daily-leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anshu033/daily-leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Anshu033/daily-leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anshu033/daily-leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0687-longest-univalue-path](https://github.com/Anshu033/daily-leetcode/tree/master/0687-longest-univalue-path) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anshu033/daily-leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anshu033/daily-leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Dynamic Programming
 |  |
@@ -106,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anshu033/daily-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Anshu033/daily-leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Anshu033/daily-leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anshu033/daily-leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anshu033/daily-leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Anshu033/daily-leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1609-even-odd-tree](https://github.com/Anshu033/daily-leetcode/tree/master/1609-even-odd-tree) |
@@ -128,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshu033/daily-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anshu033/daily-leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anshu033/daily-leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -137,10 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anshu033/daily-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anshu033/daily-leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anshu033/daily-leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anshu033/daily-leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Linked List
 |  |
 | ------- |
