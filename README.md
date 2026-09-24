@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Anshu033/daily-leetcode/tree/master/0836-rectangle-overlap) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anshu033/daily-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3871-count-commas-in-range-ii](https://github.com/Anshu033/daily-leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Breadth-First Search
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anshu033/daily-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anshu033/daily-leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Anshu033/daily-leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anshu033/daily-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
