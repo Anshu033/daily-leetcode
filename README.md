@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Anshu033/daily-leetcode/tree/master/0022-generate-parentheses) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anshu033/daily-leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Math
 |  |
@@ -158,12 +159,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Anshu033/daily-leetcode/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/Anshu033/daily-leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Anshu033/daily-leetcode/tree/master/0257-binary-tree-paths) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anshu033/daily-leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Anshu033/daily-leetcode/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Anshu033/daily-leetcode/tree/master/0257-binary-tree-paths) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anshu033/daily-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anshu033/daily-leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -269,4 +272,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anshu033/daily-leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Anshu033/daily-leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
