@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anshu033/daily-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anshu033/daily-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Anshu033/daily-leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Anshu033/daily-leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anshu033/daily-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Anshu033/daily-leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anshu033/daily-leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anshu033/daily-leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anshu033/daily-leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anshu033/daily-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Anshu033/daily-leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anshu033/daily-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Divide and Conquer
 |  |
@@ -304,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anshu033/daily-leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anshu033/daily-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Anshu033/daily-leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+## Counting
+|  |
+| ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Anshu033/daily-leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
