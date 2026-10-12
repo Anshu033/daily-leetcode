@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Anshu033/daily-leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Anshu033/daily-leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Anshu033/daily-leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Anshu033/daily-leetcode/tree/master/0112-path-sum) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Anshu033/daily-leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Anshu033/daily-leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Anshu033/daily-leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Anshu033/daily-leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Anshu033/daily-leetcode/tree/master/0257-binary-tree-paths) |
 ## String
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Anshu033/daily-leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Anshu033/daily-leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Anshu033/daily-leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Anshu033/daily-leetcode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/Anshu033/daily-leetcode/tree/master/0257-binary-tree-paths) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anshu033/daily-leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anshu033/daily-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Anshu033/daily-leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Anshu033/daily-leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshu033/daily-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anshu033/daily-leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anshu033/daily-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Anshu033/daily-leetcode/tree/master/0079-word-search) |
 | [2643-row-with-maximum-ones](https://github.com/Anshu033/daily-leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Bracket Sequences
 |  |
