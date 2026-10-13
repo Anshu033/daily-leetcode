@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Anshu033/daily-leetcode/tree/master/0257-binary-tree-paths) |
 | [0491-non-decreasing-subsequences](https://github.com/Anshu033/daily-leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/Anshu033/daily-leetcode/tree/master/0980-unique-paths-iii) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Anshu033/daily-leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/Anshu033/daily-leetcode/tree/master/2305-fair-distribution-of-cookies) |
 ## String
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Anshu033/daily-leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Anshu033/daily-leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anshu033/daily-leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Anshu033/daily-leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/Anshu033/daily-leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2643-row-with-maximum-ones](https://github.com/Anshu033/daily-leetcode/tree/master/2643-row-with-maximum-ones) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anshu033/daily-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Anshu033/daily-leetcode/tree/master/0078-subsets) |
 | [0491-non-decreasing-subsequences](https://github.com/Anshu033/daily-leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/Anshu033/daily-leetcode/tree/master/0980-unique-paths-iii) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Anshu033/daily-leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Anshu033/daily-leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2305-fair-distribution-of-cookies](https://github.com/Anshu033/daily-leetcode/tree/master/2305-fair-distribution-of-cookies) |
 ## Matrix
@@ -360,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/Anshu033/daily-leetcode/tree/master/2305-fair-distribution-of-cookies) |
+## Enumeration
+|  |
+| ------- |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Anshu033/daily-leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 <!---LeetCode Topics End-->
