@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Anshu033/daily-leetcode/tree/master/0131-palindrome-partitioning) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anshu033/daily-leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anshu033/daily-leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2305-fair-distribution-of-cookies](https://github.com/Anshu033/daily-leetcode/tree/master/2305-fair-distribution-of-cookies) |
 ## Math
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Anshu033/daily-leetcode/tree/master/0257-binary-tree-paths) |
 | [0491-non-decreasing-subsequences](https://github.com/Anshu033/daily-leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/Anshu033/daily-leetcode/tree/master/0980-unique-paths-iii) |
+| [2305-fair-distribution-of-cookies](https://github.com/Anshu033/daily-leetcode/tree/master/2305-fair-distribution-of-cookies) |
 ## String
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Anshu033/daily-leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Anshu033/daily-leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anshu033/daily-leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2305-fair-distribution-of-cookies](https://github.com/Anshu033/daily-leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2643-row-with-maximum-ones](https://github.com/Anshu033/daily-leetcode/tree/master/2643-row-with-maximum-ones) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anshu033/daily-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Anshu033/daily-leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/Anshu033/daily-leetcode/tree/master/0980-unique-paths-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Anshu033/daily-leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2305-fair-distribution-of-cookies](https://github.com/Anshu033/daily-leetcode/tree/master/2305-fair-distribution-of-cookies) |
 ## Matrix
 |  |
 | ------- |
@@ -352,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Anshu033/daily-leetcode/tree/master/0062-unique-paths) |
+## Bitmask
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/Anshu033/daily-leetcode/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
