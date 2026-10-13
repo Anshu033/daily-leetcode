@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Anshu033/daily-leetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Anshu033/daily-leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Anshu033/daily-leetcode/tree/master/0063-unique-paths-ii) |
+| [0131-palindrome-partitioning](https://github.com/Anshu033/daily-leetcode/tree/master/0131-palindrome-partitioning) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anshu033/daily-leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anshu033/daily-leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Anshu033/daily-leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Anshu033/daily-leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Anshu033/daily-leetcode/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/Anshu033/daily-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Anshu033/daily-leetcode/tree/master/0257-binary-tree-paths) |
 | [0491-non-decreasing-subsequences](https://github.com/Anshu033/daily-leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/Anshu033/daily-leetcode/tree/master/0980-unique-paths-iii) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Anshu033/daily-leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Anshu033/daily-leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Anshu033/daily-leetcode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Anshu033/daily-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Anshu033/daily-leetcode/tree/master/0257-binary-tree-paths) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anshu033/daily-leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anshu033/daily-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
