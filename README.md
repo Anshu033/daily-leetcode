@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/Anshu033/daily-leetcode/tree/master/1922-count-good-numbers) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Anshu033/daily-leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anshu033/daily-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Anshu033/daily-leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/Anshu033/daily-leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Breadth-First Search
 |  |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anshu033/daily-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Anshu033/daily-leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Sorting
 |  |
 | ------- |
