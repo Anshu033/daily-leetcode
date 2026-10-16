@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Anshu033/daily-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anshu033/daily-leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Anshu033/daily-leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1310-xor-queries-of-a-subarray](https://github.com/Anshu033/daily-leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anshu033/daily-leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Anshu033/daily-leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anshu033/daily-leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshu033/daily-leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1310-xor-queries-of-a-subarray](https://github.com/Anshu033/daily-leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Anshu033/daily-leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 ## Greedy
 |  |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Anshu033/daily-leetcode/tree/master/0338-counting-bits) |
 | [0491-non-decreasing-subsequences](https://github.com/Anshu033/daily-leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/Anshu033/daily-leetcode/tree/master/0980-unique-paths-iii) |
+| [1310-xor-queries-of-a-subarray](https://github.com/Anshu033/daily-leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Anshu033/daily-leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anshu033/daily-leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Anshu033/daily-leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
