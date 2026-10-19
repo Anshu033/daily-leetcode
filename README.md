@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anshu033/daily-leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Anshu033/daily-leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anshu033/daily-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Anshu033/daily-leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Anshu033/daily-leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Anshu033/daily-leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3871-count-commas-in-range-ii](https://github.com/Anshu033/daily-leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -464,4 +465,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Anshu033/daily-leetcode/tree/master/0202-happy-number) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Anshu033/daily-leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
