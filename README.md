@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anshu033/daily-leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anshu033/daily-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Anshu033/daily-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Anshu033/daily-leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Anshu033/daily-leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anshu033/daily-leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/Anshu033/daily-leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anshu033/daily-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Anshu033/daily-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Anshu033/daily-leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
