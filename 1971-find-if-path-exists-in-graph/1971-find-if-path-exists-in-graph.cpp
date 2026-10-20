@@ -3,22 +3,18 @@ public:
 
 // DFS  ->
 
-bool dfs(unordered_map<int,vector<int>>&adj,int source,int destination,vector<bool>&visited)
+void dfs(unordered_map<int,vector<int>>&adj,int source,int destination,vector<bool>&visited)
 {
-    if(source==destination)
-    return true;
-
-    if(visited[source]==true)
-    return false;
-
-    visited[source]=true;
+   visited[source]=true;
 
     for(auto &it:adj[source])
     {
-        if(dfs(adj,it,destination,visited)==true)
-        return true;
+        if(!visited[it])
+        {
+            dfs(adj,it,destination,visited);
+        }
     }
-    return false;
+    
 }
     bool validPath(int n, vector<vector<int>>& edges, int source, int destination) 
     {
@@ -33,6 +29,7 @@ bool dfs(unordered_map<int,vector<int>>&adj,int source,int destination,vector<bo
         }
         vector<bool>visited(n,false);
 
-        return dfs(adj,source,destination,visited);
+        dfs(adj,source,destination,visited);
+        return visited[destination];
     }
 };
