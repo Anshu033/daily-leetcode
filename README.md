@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/Anshu033/daily-leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/Anshu033/daily-leetcode/tree/master/0687-longest-univalue-path) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anshu033/daily-leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/Anshu033/daily-leetcode/tree/master/0785-is-graph-bipartite) |
 | [0814-binary-tree-pruning](https://github.com/Anshu033/daily-leetcode/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anshu033/daily-leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Anshu033/daily-leetcode/tree/master/0938-range-sum-of-bst) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anshu033/daily-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Anshu033/daily-leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anshu033/daily-leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/Anshu033/daily-leetcode/tree/master/0785-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anshu033/daily-leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Anshu033/daily-leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anshu033/daily-leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -418,12 +420,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Anshu033/daily-leetcode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Anshu033/daily-leetcode/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Anshu033/daily-leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Anshu033/daily-leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Anshu033/daily-leetcode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Anshu033/daily-leetcode/tree/master/0785-is-graph-bipartite) |
 ## Sliding Window
 |  |
 | ------- |
@@ -500,4 +504,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Anshu033/daily-leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Anshu033/daily-leetcode/tree/master/0210-course-schedule-ii) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Anshu033/daily-leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Anshu033/daily-leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
