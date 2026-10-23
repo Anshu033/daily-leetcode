@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Anshu033/daily-leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Anshu033/daily-leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/Anshu033/daily-leetcode/tree/master/0687-longest-univalue-path) |
+| [0695-max-area-of-island](https://github.com/Anshu033/daily-leetcode/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anshu033/daily-leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/Anshu033/daily-leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Anshu033/daily-leetcode/tree/master/0797-all-paths-from-source-to-target) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Anshu033/daily-leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Anshu033/daily-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Anshu033/daily-leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Anshu033/daily-leetcode/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anshu033/daily-leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/Anshu033/daily-leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Anshu033/daily-leetcode/tree/master/0797-all-paths-from-source-to-target) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Anshu033/daily-leetcode/tree/master/0216-combination-sum-iii) |
 | [0377-combination-sum-iv](https://github.com/Anshu033/daily-leetcode/tree/master/0377-combination-sum-iv) |
 | [0491-non-decreasing-subsequences](https://github.com/Anshu033/daily-leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0695-max-area-of-island](https://github.com/Anshu033/daily-leetcode/tree/master/0695-max-area-of-island) |
 | [0980-unique-paths-iii](https://github.com/Anshu033/daily-leetcode/tree/master/0980-unique-paths-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshu033/daily-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anshu033/daily-leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Anshu033/daily-leetcode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Anshu033/daily-leetcode/tree/master/0079-word-search) |
+| [0695-max-area-of-island](https://github.com/Anshu033/daily-leetcode/tree/master/0695-max-area-of-island) |
 | [0980-unique-paths-iii](https://github.com/Anshu033/daily-leetcode/tree/master/0980-unique-paths-iii) |
 | [2643-row-with-maximum-ones](https://github.com/Anshu033/daily-leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Bracket Sequences
@@ -437,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Anshu033/daily-leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Anshu033/daily-leetcode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Anshu033/daily-leetcode/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Anshu033/daily-leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
