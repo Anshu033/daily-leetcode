@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Anshu033/daily-leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/Anshu033/daily-leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Anshu033/daily-leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2678-number-of-senior-citizens](https://github.com/Anshu033/daily-leetcode/tree/master/2678-number-of-senior-citizens) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anshu033/daily-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Anshu033/daily-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Anshu033/daily-leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Anshu033/daily-leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Anshu033/daily-leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2643-row-with-maximum-ones](https://github.com/Anshu033/daily-leetcode/tree/master/2643-row-with-maximum-ones) |
+| [2678-number-of-senior-citizens](https://github.com/Anshu033/daily-leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anshu033/daily-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Anshu033/daily-leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anshu033/daily-leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
