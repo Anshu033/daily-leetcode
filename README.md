@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Anshu033/daily-leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Anshu033/daily-leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Anshu033/daily-leetcode/tree/master/0263-ugly-number) |
+| [0342-power-of-four](https://github.com/Anshu033/daily-leetcode/tree/master/0342-power-of-four) |
 | [0836-rectangle-overlap](https://github.com/Anshu033/daily-leetcode/tree/master/0836-rectangle-overlap) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Anshu033/daily-leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Anshu033/daily-leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Anshu033/daily-leetcode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Anshu033/daily-leetcode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Anshu033/daily-leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Anshu033/daily-leetcode/tree/master/0342-power-of-four) |
 | [0491-non-decreasing-subsequences](https://github.com/Anshu033/daily-leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/Anshu033/daily-leetcode/tree/master/0980-unique-paths-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Anshu033/daily-leetcode/tree/master/1310-xor-queries-of-a-subarray) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Anshu033/daily-leetcode/tree/master/0342-power-of-four) |
 | [1922-count-good-numbers](https://github.com/Anshu033/daily-leetcode/tree/master/1922-count-good-numbers) |
 ## Hamiltonian Path
 |  |
