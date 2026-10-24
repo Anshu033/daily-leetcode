@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1759-count-number-of-homogenous-substrings](https://github.com/Anshu033/daily-leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1922-count-good-numbers](https://github.com/Anshu033/daily-leetcode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anshu033/daily-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/Anshu033/daily-leetcode/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/Anshu033/daily-leetcode/tree/master/2427-number-of-common-factors) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Anshu033/daily-leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2748-number-of-beautiful-pairs](https://github.com/Anshu033/daily-leetcode/tree/master/2748-number-of-beautiful-pairs) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Anshu033/daily-leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/Anshu033/daily-leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Anshu033/daily-leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2409-count-days-spent-together](https://github.com/Anshu033/daily-leetcode/tree/master/2409-count-days-spent-together) |
 | [2678-number-of-senior-citizens](https://github.com/Anshu033/daily-leetcode/tree/master/2678-number-of-senior-citizens) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anshu033/daily-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Anshu033/daily-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
