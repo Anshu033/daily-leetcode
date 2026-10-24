@@ -1,0 +1,14 @@
+class Solution {
+public:
+    int mirrorDistance(int n) 
+    {
+        int original = n;
+        string s = to_string(n);
+        reverse(s.begin(),s.end());
+        int rev=stoi(s);
+
+        return abs(original-rev);
+
+        
+    }
+};
