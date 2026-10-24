@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Anshu033/daily-leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/Anshu033/daily-leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Anshu033/daily-leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Anshu033/daily-leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Anshu033/daily-leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Anshu033/daily-leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Anshu033/daily-leetcode/tree/master/0226-invert-binary-tree) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Anshu033/daily-leetcode/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/Anshu033/daily-leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Anshu033/daily-leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Anshu033/daily-leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Anshu033/daily-leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Anshu033/daily-leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Anshu033/daily-leetcode/tree/master/0226-invert-binary-tree) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anshu033/daily-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/Anshu033/daily-leetcode/tree/master/0130-surrounded-regions) |
 | [0164-maximum-gap](https://github.com/Anshu033/daily-leetcode/tree/master/0164-maximum-gap) |
+| [0200-number-of-islands](https://github.com/Anshu033/daily-leetcode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Anshu033/daily-leetcode/tree/master/0216-combination-sum-iii) |
 | [0377-combination-sum-iv](https://github.com/Anshu033/daily-leetcode/tree/master/0377-combination-sum-iv) |
 | [0414-third-maximum-number](https://github.com/Anshu033/daily-leetcode/tree/master/0414-third-maximum-number) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Anshu033/daily-leetcode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Anshu033/daily-leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Anshu033/daily-leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Anshu033/daily-leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Anshu033/daily-leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Anshu033/daily-leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Anshu033/daily-leetcode/tree/master/0733-flood-fill) |
@@ -485,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Anshu033/daily-leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Anshu033/daily-leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Anshu033/daily-leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Anshu033/daily-leetcode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Anshu033/daily-leetcode/tree/master/0785-is-graph-bipartite) |
