@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Anshu033/daily-leetcode/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/Anshu033/daily-leetcode/tree/master/0342-power-of-four) |
 | [0836-rectangle-overlap](https://github.com/Anshu033/daily-leetcode/tree/master/0836-rectangle-overlap) |
+| [1518-water-bottles](https://github.com/Anshu033/daily-leetcode/tree/master/1518-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Anshu033/daily-leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Anshu033/daily-leetcode/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1922-count-good-numbers](https://github.com/Anshu033/daily-leetcode/tree/master/1922-count-good-numbers) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1518-water-bottles](https://github.com/Anshu033/daily-leetcode/tree/master/1518-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Anshu033/daily-leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2109-adding-spaces-to-a-string](https://github.com/Anshu033/daily-leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anshu033/daily-leetcode/tree/master/3498-reverse-degree-of-a-string) |
