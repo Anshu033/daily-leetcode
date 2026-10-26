@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Anshu033/daily-leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Anshu033/daily-leetcode/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/Anshu033/daily-leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Anshu033/daily-leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Anshu033/daily-leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Anshu033/daily-leetcode/tree/master/0200-number-of-islands) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Anshu033/daily-leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Anshu033/daily-leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Anshu033/daily-leetcode/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/Anshu033/daily-leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Anshu033/daily-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0171-excel-sheet-column-number](https://github.com/Anshu033/daily-leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/Anshu033/daily-leetcode/tree/master/0257-binary-tree-paths) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anshu033/daily-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anshu033/daily-leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/Anshu033/daily-leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Anshu033/daily-leetcode/tree/master/0133-clone-graph) |
 | [0202-happy-number](https://github.com/Anshu033/daily-leetcode/tree/master/0202-happy-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anshu033/daily-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -631,4 +634,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Anshu033/daily-leetcode/tree/master/0164-maximum-gap) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Anshu033/daily-leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
