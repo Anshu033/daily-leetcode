@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2748-number-of-beautiful-pairs](https://github.com/Anshu033/daily-leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anshu033/daily-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Anshu033/daily-leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Anshu033/daily-leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anshu033/daily-leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Anshu033/daily-leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anshu033/daily-leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/Anshu033/daily-leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Anshu033/daily-leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2748-number-of-beautiful-pairs](https://github.com/Anshu033/daily-leetcode/tree/master/2748-number-of-beautiful-pairs) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Anshu033/daily-leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anshu033/daily-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Anshu033/daily-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Anshu033/daily-leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anshu033/daily-leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anshu033/daily-leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2748-number-of-beautiful-pairs](https://github.com/Anshu033/daily-leetcode/tree/master/2748-number-of-beautiful-pairs) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Anshu033/daily-leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
