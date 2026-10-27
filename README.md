@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Anshu033/daily-leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/Anshu033/daily-leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Anshu033/daily-leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2315-count-asterisks](https://github.com/Anshu033/daily-leetcode/tree/master/2315-count-asterisks) |
 | [2409-count-days-spent-together](https://github.com/Anshu033/daily-leetcode/tree/master/2409-count-days-spent-together) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Anshu033/daily-leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2678-number-of-senior-citizens](https://github.com/Anshu033/daily-leetcode/tree/master/2678-number-of-senior-citizens) |
