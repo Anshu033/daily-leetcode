@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/Anshu033/daily-leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Anshu033/daily-leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2409-count-days-spent-together](https://github.com/Anshu033/daily-leetcode/tree/master/2409-count-days-spent-together) |
+| [2506-count-pairs-of-similar-strings](https://github.com/Anshu033/daily-leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2678-number-of-senior-citizens](https://github.com/Anshu033/daily-leetcode/tree/master/2678-number-of-senior-citizens) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anshu033/daily-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Anshu033/daily-leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Anshu033/daily-leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anshu033/daily-leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2465-number-of-distinct-averages](https://github.com/Anshu033/daily-leetcode/tree/master/2465-number-of-distinct-averages) |
+| [2506-count-pairs-of-similar-strings](https://github.com/Anshu033/daily-leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2574-left-and-right-sum-differences](https://github.com/Anshu033/daily-leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Anshu033/daily-leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2643-row-with-maximum-ones](https://github.com/Anshu033/daily-leetcode/tree/master/2643-row-with-maximum-ones) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anshu033/daily-leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anshu033/daily-leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2465-number-of-distinct-averages](https://github.com/Anshu033/daily-leetcode/tree/master/2465-number-of-distinct-averages) |
+| [2506-count-pairs-of-similar-strings](https://github.com/Anshu033/daily-leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Anshu033/daily-leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2748-number-of-beautiful-pairs](https://github.com/Anshu033/daily-leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Anshu033/daily-leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Anshu033/daily-leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2305-fair-distribution-of-cookies](https://github.com/Anshu033/daily-leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Anshu033/daily-leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2506-count-pairs-of-similar-strings](https://github.com/Anshu033/daily-leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Anshu033/daily-leetcode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3133-minimum-array-end](https://github.com/Anshu033/daily-leetcode/tree/master/3133-minimum-array-end) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Anshu033/daily-leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -553,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anshu033/daily-leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anshu033/daily-leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anshu033/daily-leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2506-count-pairs-of-similar-strings](https://github.com/Anshu033/daily-leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2748-number-of-beautiful-pairs](https://github.com/Anshu033/daily-leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Anshu033/daily-leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
