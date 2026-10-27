@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Anshu033/daily-leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Anshu033/daily-leetcode/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/Anshu033/daily-leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Anshu033/daily-leetcode/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/Anshu033/daily-leetcode/tree/master/0836-rectangle-overlap) |
 | [1518-water-bottles](https://github.com/Anshu033/daily-leetcode/tree/master/1518-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Anshu033/daily-leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Anshu033/daily-leetcode/tree/master/0165-compare-version-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/Anshu033/daily-leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/Anshu033/daily-leetcode/tree/master/0257-binary-tree-paths) |
+| [0412-fizz-buzz](https://github.com/Anshu033/daily-leetcode/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anshu033/daily-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anshu033/daily-leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1189-maximum-number-of-balloons](https://github.com/Anshu033/daily-leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Anshu033/daily-leetcode/tree/master/0412-fizz-buzz) |
 | [1518-water-bottles](https://github.com/Anshu033/daily-leetcode/tree/master/1518-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Anshu033/daily-leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2109-adding-spaces-to-a-string](https://github.com/Anshu033/daily-leetcode/tree/master/2109-adding-spaces-to-a-string) |
