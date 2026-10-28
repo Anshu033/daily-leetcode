@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Anshu033/daily-leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Anshu033/daily-leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Anshu033/daily-leetcode/tree/master/0412-fizz-buzz) |
+| [0633-sum-of-square-numbers](https://github.com/Anshu033/daily-leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/Anshu033/daily-leetcode/tree/master/0836-rectangle-overlap) |
 | [1518-water-bottles](https://github.com/Anshu033/daily-leetcode/tree/master/1518-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Anshu033/daily-leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Anshu033/daily-leetcode/tree/master/0367-valid-perfect-square) |
 | [0450-delete-node-in-a-bst](https://github.com/Anshu033/daily-leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Anshu033/daily-leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0633-sum-of-square-numbers](https://github.com/Anshu033/daily-leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0669-trim-a-binary-search-tree](https://github.com/Anshu033/daily-leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anshu033/daily-leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Anshu033/daily-leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Anshu033/daily-leetcode/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/Anshu033/daily-leetcode/tree/master/0202-happy-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anshu033/daily-leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0633-sum-of-square-numbers](https://github.com/Anshu033/daily-leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2000-reverse-prefix-of-word](https://github.com/Anshu033/daily-leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/Anshu033/daily-leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2465-number-of-distinct-averages](https://github.com/Anshu033/daily-leetcode/tree/master/2465-number-of-distinct-averages) |
