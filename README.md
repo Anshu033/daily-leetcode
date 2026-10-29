@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-fair-distribution-of-cookies](https://github.com/Anshu033/daily-leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Anshu033/daily-leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anshu033/daily-leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anshu033/daily-leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2465-number-of-distinct-averages](https://github.com/Anshu033/daily-leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Anshu033/daily-leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2574-left-and-right-sum-differences](https://github.com/Anshu033/daily-leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anshu033/daily-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anshu033/daily-leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anshu033/daily-leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anshu033/daily-leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2465-number-of-distinct-averages](https://github.com/Anshu033/daily-leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Anshu033/daily-leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Anshu033/daily-leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anshu033/daily-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshu033/daily-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anshu033/daily-leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anshu033/daily-leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anshu033/daily-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Anshu033/daily-leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Counting
