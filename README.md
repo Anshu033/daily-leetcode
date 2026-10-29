@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Anshu033/daily-leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Anshu033/daily-leetcode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Anshu033/daily-leetcode/tree/master/0062-unique-paths) |
 | [0171-excel-sheet-column-number](https://github.com/Anshu033/daily-leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Anshu033/daily-leetcode/tree/master/0202-happy-number) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Anshu033/daily-leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Anshu033/daily-leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Anshu033/daily-leetcode/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/Anshu033/daily-leetcode/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/Anshu033/daily-leetcode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Anshu033/daily-leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Anshu033/daily-leetcode/tree/master/0131-palindrome-partitioning) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Anshu033/daily-leetcode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/Anshu033/daily-leetcode/tree/master/0412-fizz-buzz) |
 | [1518-water-bottles](https://github.com/Anshu033/daily-leetcode/tree/master/1518-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Anshu033/daily-leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
