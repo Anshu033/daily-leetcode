@@ -1,50 +1,38 @@
 class Solution {
 public:
-
-    bool allZero(vector<int>&counter)
+    vector<int> findAnagrams(string s, string p) 
     {
-        for(int i=0;i<counter.size();i++)
+        int n=s.size();
+        int k=p.size();
+
+        vector<int>ans;
+        if(k>n)
         {
-            if(counter[i]!=0)
-            return false;
+            return ans;
         }
-         return true;
-    }
-    
-    vector<int> findAnagrams(string txt , string pat ) 
-    {
-        int n=txt.size();
-      
-      // step 1 : Frequency store kra leta hu
-        vector<int>counter(26,0);
+        vector<int>freq1(26,0);
+        vector<int>freq2(26,0);
 
-        for(int i=0;i<pat.size();i++)
+        for(int i=0;i<k;i++)
         {
-            char ch = pat[i];
-            counter[ch-'a']++;
+            freq1[p[i]-'a']++;
+            freq2[s[i]-'a']++;
         }
-
-        // step 2. Traverse krke update krte rh
-        int i=0,j=0,k=pat.size();
-        vector<int>result;
-
-        while(j<n)
+        if(freq1==freq2)
         {
-            counter[txt[j]-'a']--;
+            ans.push_back(0);
+        }
+        for(int j=k;j<n;j++)
+        {
+            freq2[s[j]-'a']++;
+            freq2[s[j-k]-'a']--;
 
-            if(j-i+1==k)
+            if(freq1==freq2)
             {
-                if(allZero(counter))
-                {
-                    result.push_back(i);
-                }
-                counter[txt[i]-'a']++;
-                i++;
+                ans.push_back(j-k+1);
             }
-            j++;
         }
-        return result;
-
+        return ans;
         
     }
 };
