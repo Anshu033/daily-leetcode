@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Anshu033/daily-leetcode/tree/master/0130-surrounded-regions) |
 | [0164-maximum-gap](https://github.com/Anshu033/daily-leetcode/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/Anshu033/daily-leetcode/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Anshu033/daily-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/Anshu033/daily-leetcode/tree/master/0216-combination-sum-iii) |
 | [0377-combination-sum-iv](https://github.com/Anshu033/daily-leetcode/tree/master/0377-combination-sum-iv) |
 | [0414-third-maximum-number](https://github.com/Anshu033/daily-leetcode/tree/master/0414-third-maximum-number) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Anshu033/daily-leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anshu033/daily-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0209-minimum-size-subarray-sum](https://github.com/Anshu033/daily-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anshu033/daily-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anshu033/daily-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0367-valid-perfect-square](https://github.com/Anshu033/daily-leetcode/tree/master/0367-valid-perfect-square) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Anshu033/daily-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshu033/daily-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Anshu033/daily-leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Anshu033/daily-leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Anshu033/daily-leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anshu033/daily-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshu033/daily-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anshu033/daily-leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
