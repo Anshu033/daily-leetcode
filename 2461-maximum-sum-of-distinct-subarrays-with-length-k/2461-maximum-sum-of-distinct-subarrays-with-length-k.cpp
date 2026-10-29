@@ -14,7 +14,7 @@ public:
         }
         if(mp.size()==k)
         {
-            maxi=sum;
+            maxi=max(maxi,sum);
         }
         for(int j=k;j<n;j++)
         {
