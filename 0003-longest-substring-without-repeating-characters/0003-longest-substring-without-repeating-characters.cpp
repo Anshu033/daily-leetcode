@@ -5,18 +5,18 @@ public:
         int n=s.size();
         int left=0;
         int maxi=0;
-        unordered_set<int>st;
+        unordered_map<char,int>freq;
 
         for(int right=0;right<n;right++)
         {
-            while(st.find(s[right])!=st.end())
+            freq[s[right]]++;
+
+            while(freq[s[right]]>1)
             {
-                st.erase(s[left]);
+                freq[s[left]]--;
                 left++;
             }
-            st.insert(s[right]);
             maxi=max(maxi,right-left+1);
-
         }
         return maxi;
         
