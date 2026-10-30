@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Anshu033/daily-leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Anshu033/daily-leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Anshu033/daily-leetcode/tree/master/0733-flood-fill) |
+| [0904-fruit-into-baskets](https://github.com/Anshu033/daily-leetcode/tree/master/0904-fruit-into-baskets) |
 | [0980-unique-paths-iii](https://github.com/Anshu033/daily-leetcode/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Anshu033/daily-leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshu033/daily-leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Anshu033/daily-leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0567-permutation-in-string](https://github.com/Anshu033/daily-leetcode/tree/master/0567-permutation-in-string) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anshu033/daily-leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0904-fruit-into-baskets](https://github.com/Anshu033/daily-leetcode/tree/master/0904-fruit-into-baskets) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anshu033/daily-leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1189-maximum-number-of-balloons](https://github.com/Anshu033/daily-leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Anshu033/daily-leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Anshu033/daily-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Anshu033/daily-leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Anshu033/daily-leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Anshu033/daily-leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshu033/daily-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Anshu033/daily-leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Anshu033/daily-leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
