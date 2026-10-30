@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Anshu033/daily-leetcode/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/Anshu033/daily-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Anshu033/daily-leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Anshu033/daily-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0377-combination-sum-iv](https://github.com/Anshu033/daily-leetcode/tree/master/0377-combination-sum-iv) |
 | [0414-third-maximum-number](https://github.com/Anshu033/daily-leetcode/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/Anshu033/daily-leetcode/tree/master/0463-island-perimeter) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anshu033/daily-leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anshu033/daily-leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/Anshu033/daily-leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Anshu033/daily-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Anshu033/daily-leetcode/tree/master/0367-valid-perfect-square) |
 | [0450-delete-node-in-a-bst](https://github.com/Anshu033/daily-leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Anshu033/daily-leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Anshu033/daily-leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/Anshu033/daily-leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Anshu033/daily-leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Anshu033/daily-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Anshu033/daily-leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Anshu033/daily-leetcode/tree/master/0342-power-of-four) |
 | [0491-non-decreasing-subsequences](https://github.com/Anshu033/daily-leetcode/tree/master/0491-non-decreasing-subsequences) |
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Anshu033/daily-leetcode/tree/master/0042-trapping-rain-water) |
 | [0165-compare-version-numbers](https://github.com/Anshu033/daily-leetcode/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/Anshu033/daily-leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Anshu033/daily-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anshu033/daily-leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Anshu033/daily-leetcode/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Anshu033/daily-leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -691,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Anshu033/daily-leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Anshu033/daily-leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -735,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Anshu033/daily-leetcode/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/Anshu033/daily-leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Bidirectional Search
 |  |
 | ------- |
