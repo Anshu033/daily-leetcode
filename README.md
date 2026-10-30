@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anshu033/daily-leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Anshu033/daily-leetcode/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Anshu033/daily-leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Anshu033/daily-leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Anshu033/daily-leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anshu033/daily-leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Anshu033/daily-leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anshu033/daily-leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anshu033/daily-leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1189-maximum-number-of-balloons](https://github.com/Anshu033/daily-leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Anshu033/daily-leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Anshu033/daily-leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Anshu033/daily-leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anshu033/daily-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Anshu033/daily-leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshu033/daily-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Anshu033/daily-leetcode/tree/master/1052-grumpy-bookstore-owner) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Anshu033/daily-leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anshu033/daily-leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anshu033/daily-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anshu033/daily-leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
