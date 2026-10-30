@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anshu033/daily-leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anshu033/daily-leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Anshu033/daily-leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anshu033/daily-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anshu033/daily-leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Anshu033/daily-leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1732-find-the-highest-altitude](https://github.com/Anshu033/daily-leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/Anshu033/daily-leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Anshu033/daily-leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Anshu033/daily-leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anshu033/daily-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/Anshu033/daily-leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1829-maximum-xor-for-each-query](https://github.com/Anshu033/daily-leetcode/tree/master/1829-maximum-xor-for-each-query) |
 | [2574-left-and-right-sum-differences](https://github.com/Anshu033/daily-leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Anshu033/daily-leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Anshu033/daily-leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anshu033/daily-leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anshu033/daily-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anshu033/daily-leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anshu033/daily-leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anshu033/daily-leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
