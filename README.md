@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/Anshu033/daily-leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Anshu033/daily-leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2315-count-asterisks](https://github.com/Anshu033/daily-leetcode/tree/master/2315-count-asterisks) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Anshu033/daily-leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2409-count-days-spent-together](https://github.com/Anshu033/daily-leetcode/tree/master/2409-count-days-spent-together) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Anshu033/daily-leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2678-number-of-senior-citizens](https://github.com/Anshu033/daily-leetcode/tree/master/2678-number-of-senior-citizens) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anshu033/daily-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anshu033/daily-leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anshu033/daily-leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Anshu033/daily-leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anshu033/daily-leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anshu033/daily-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Anshu033/daily-leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
