@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anshu033/daily-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anshu033/daily-leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Anshu033/daily-leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anshu033/daily-leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Anshu033/daily-leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/Anshu033/daily-leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1829-maximum-xor-for-each-query](https://github.com/Anshu033/daily-leetcode/tree/master/1829-maximum-xor-for-each-query) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Anshu033/daily-leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Anshu033/daily-leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anshu033/daily-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anshu033/daily-leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anshu033/daily-leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anshu033/daily-leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anshu033/daily-leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anshu033/daily-leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Anshu033/daily-leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Anshu033/daily-leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anshu033/daily-leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anshu033/daily-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Monotonic Stack
 |  |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Anshu033/daily-leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Anshu033/daily-leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anshu033/daily-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anshu033/daily-leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Anshu033/daily-leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1829-maximum-xor-for-each-query](https://github.com/Anshu033/daily-leetcode/tree/master/1829-maximum-xor-for-each-query) |
 | [2574-left-and-right-sum-differences](https://github.com/Anshu033/daily-leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -602,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anshu033/daily-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anshu033/daily-leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anshu033/daily-leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anshu033/daily-leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Anshu033/daily-leetcode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Anshu033/daily-leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anshu033/daily-leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
