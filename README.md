@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Anshu033/daily-leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Anshu033/daily-leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Anshu033/daily-leetcode/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/Anshu033/daily-leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Anshu033/daily-leetcode/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Anshu033/daily-leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Anshu033/daily-leetcode/tree/master/0079-word-search) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Anshu033/daily-leetcode/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/Anshu033/daily-leetcode/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/Anshu033/daily-leetcode/tree/master/0164-maximum-gap) |
 | [0268-missing-number](https://github.com/Anshu033/daily-leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Anshu033/daily-leetcode/tree/master/0414-third-maximum-number) |
@@ -753,4 +755,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Anshu033/daily-leetcode/tree/master/0187-repeated-dna-sequences) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Anshu033/daily-leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
