@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/Anshu033/daily-leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Anshu033/daily-leetcode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2305-fair-distribution-of-cookies](https://github.com/Anshu033/daily-leetcode/tree/master/2305-fair-distribution-of-cookies) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Anshu033/daily-leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Anshu033/daily-leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Anshu033/daily-leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anshu033/daily-leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anshu033/daily-leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Anshu033/daily-leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1829-maximum-xor-for-each-query](https://github.com/Anshu033/daily-leetcode/tree/master/1829-maximum-xor-for-each-query) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Anshu033/daily-leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2574-left-and-right-sum-differences](https://github.com/Anshu033/daily-leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Greedy
 |  |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Anshu033/daily-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anshu033/daily-leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anshu033/daily-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Anshu033/daily-leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Anshu033/daily-leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Sorting
 |  |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anshu033/daily-leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anshu033/daily-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anshu033/daily-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Anshu033/daily-leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2465-number-of-distinct-averages](https://github.com/Anshu033/daily-leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Anshu033/daily-leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3536-maximum-product-of-two-digits](https://github.com/Anshu033/daily-leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -665,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/Anshu033/daily-leetcode/tree/master/0986-interval-list-intersections) |
 | [2000-reverse-prefix-of-word](https://github.com/Anshu033/daily-leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/Anshu033/daily-leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Anshu033/daily-leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2465-number-of-distinct-averages](https://github.com/Anshu033/daily-leetcode/tree/master/2465-number-of-distinct-averages) |
 ## Recursion
 |  |
@@ -788,4 +793,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Anshu033/daily-leetcode/tree/master/0729-my-calendar-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Anshu033/daily-leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
