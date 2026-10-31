@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Anshu033/daily-leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Anshu033/daily-leetcode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/Anshu033/daily-leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0729-my-calendar-i](https://github.com/Anshu033/daily-leetcode/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/Anshu033/daily-leetcode/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/Anshu033/daily-leetcode/tree/master/0904-fruit-into-baskets) |
 | [0980-unique-paths-iii](https://github.com/Anshu033/daily-leetcode/tree/master/0980-unique-paths-iii) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Anshu033/daily-leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Anshu033/daily-leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/Anshu033/daily-leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0729-my-calendar-i](https://github.com/Anshu033/daily-leetcode/tree/master/0729-my-calendar-i) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anshu033/daily-leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Anshu033/daily-leetcode/tree/master/0938-range-sum-of-bst) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshu033/daily-leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -774,4 +776,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Anshu033/daily-leetcode/tree/master/0986-interval-list-intersections) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Anshu033/daily-leetcode/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Anshu033/daily-leetcode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Anshu033/daily-leetcode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
