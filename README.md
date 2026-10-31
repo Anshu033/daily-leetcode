@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Anshu033/daily-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/Anshu033/daily-leetcode/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/Anshu033/daily-leetcode/tree/master/0377-combination-sum-iv) |
+| [0435-non-overlapping-intervals](https://github.com/Anshu033/daily-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anshu033/daily-leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anshu033/daily-leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2305-fair-distribution-of-cookies](https://github.com/Anshu033/daily-leetcode/tree/master/2305-fair-distribution-of-cookies) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Anshu033/daily-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0377-combination-sum-iv](https://github.com/Anshu033/daily-leetcode/tree/master/0377-combination-sum-iv) |
 | [0414-third-maximum-number](https://github.com/Anshu033/daily-leetcode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/Anshu033/daily-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/Anshu033/daily-leetcode/tree/master/0463-island-perimeter) |
 | [0491-non-decreasing-subsequences](https://github.com/Anshu033/daily-leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0643-maximum-average-subarray-i](https://github.com/Anshu033/daily-leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Anshu033/daily-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anshu033/daily-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Anshu033/daily-leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Sorting
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Anshu033/daily-leetcode/tree/master/0164-maximum-gap) |
 | [0268-missing-number](https://github.com/Anshu033/daily-leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Anshu033/daily-leetcode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/Anshu033/daily-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Anshu033/daily-leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anshu033/daily-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anshu033/daily-leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
