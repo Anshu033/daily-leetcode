@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Anshu033/daily-leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/Anshu033/daily-leetcode/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/Anshu033/daily-leetcode/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/Anshu033/daily-leetcode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Anshu033/daily-leetcode/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/Anshu033/daily-leetcode/tree/master/0904-fruit-into-baskets) |
 | [0980-unique-paths-iii](https://github.com/Anshu033/daily-leetcode/tree/master/0980-unique-paths-iii) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Anshu033/daily-leetcode/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/Anshu033/daily-leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Anshu033/daily-leetcode/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/Anshu033/daily-leetcode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Anshu033/daily-leetcode/tree/master/0867-transpose-matrix) |
 | [0980-unique-paths-iii](https://github.com/Anshu033/daily-leetcode/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Anshu033/daily-leetcode/tree/master/0994-rotting-oranges) |
