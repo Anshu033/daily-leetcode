@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Anshu033/daily-leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/Anshu033/daily-leetcode/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/Anshu033/daily-leetcode/tree/master/0733-flood-fill) |
+| [0867-transpose-matrix](https://github.com/Anshu033/daily-leetcode/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/Anshu033/daily-leetcode/tree/master/0904-fruit-into-baskets) |
 | [0980-unique-paths-iii](https://github.com/Anshu033/daily-leetcode/tree/master/0980-unique-paths-iii) |
 | [0986-interval-list-intersections](https://github.com/Anshu033/daily-leetcode/tree/master/0986-interval-list-intersections) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Anshu033/daily-leetcode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/Anshu033/daily-leetcode/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/Anshu033/daily-leetcode/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/Anshu033/daily-leetcode/tree/master/1518-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Anshu033/daily-leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2109-adding-spaces-to-a-string](https://github.com/Anshu033/daily-leetcode/tree/master/2109-adding-spaces-to-a-string) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Anshu033/daily-leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Anshu033/daily-leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Anshu033/daily-leetcode/tree/master/0733-flood-fill) |
+| [0867-transpose-matrix](https://github.com/Anshu033/daily-leetcode/tree/master/0867-transpose-matrix) |
 | [0980-unique-paths-iii](https://github.com/Anshu033/daily-leetcode/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Anshu033/daily-leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Anshu033/daily-leetcode/tree/master/1020-number-of-enclaves) |
