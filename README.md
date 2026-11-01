@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Anshu033/daily-leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0463-island-perimeter](https://github.com/Anshu033/daily-leetcode/tree/master/0463-island-perimeter) |
 | [0491-non-decreasing-subsequences](https://github.com/Anshu033/daily-leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0566-reshape-the-matrix](https://github.com/Anshu033/daily-leetcode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Anshu033/daily-leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Anshu033/daily-leetcode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/Anshu033/daily-leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Anshu033/daily-leetcode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/Anshu033/daily-leetcode/tree/master/0412-fizz-buzz) |
+| [0566-reshape-the-matrix](https://github.com/Anshu033/daily-leetcode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Anshu033/daily-leetcode/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/Anshu033/daily-leetcode/tree/master/1518-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Anshu033/daily-leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Anshu033/daily-leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Anshu033/daily-leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Anshu033/daily-leetcode/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/Anshu033/daily-leetcode/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/Anshu033/daily-leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Anshu033/daily-leetcode/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/Anshu033/daily-leetcode/tree/master/0867-transpose-matrix) |
