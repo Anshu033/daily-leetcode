@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Anshu033/daily-leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anshu033/daily-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Anshu033/daily-leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1572-matrix-diagonal-sum](https://github.com/Anshu033/daily-leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Anshu033/daily-leetcode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anshu033/daily-leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Anshu033/daily-leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Anshu033/daily-leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Anshu033/daily-leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Anshu033/daily-leetcode/tree/master/1254-number-of-closed-islands) |
+| [1572-matrix-diagonal-sum](https://github.com/Anshu033/daily-leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1905-count-sub-islands](https://github.com/Anshu033/daily-leetcode/tree/master/1905-count-sub-islands) |
 | [2643-row-with-maximum-ones](https://github.com/Anshu033/daily-leetcode/tree/master/2643-row-with-maximum-ones) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anshu033/daily-leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
