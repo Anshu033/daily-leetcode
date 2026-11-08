@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Anshu033/daily-leetcode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Anshu033/daily-leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Anshu033/daily-leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Anshu033/daily-leetcode/tree/master/0040-combination-sum-ii) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Anshu033/daily-leetcode/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/Anshu033/daily-leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Anshu033/daily-leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anshu033/daily-leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Anshu033/daily-leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Anshu033/daily-leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Anshu033/daily-leetcode/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/Anshu033/daily-leetcode/tree/master/0165-compare-version-numbers) |
